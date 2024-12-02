@@ -1,2 +1,2 @@
 # aula-2
-Python
+Print('oi')
